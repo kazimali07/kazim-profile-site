@@ -24,7 +24,7 @@ A modern, responsive personal portfolio website built with Next.js, TypeScript, 
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/kazim-profile-site.git
+git clone https://github.com/kazimali07/kazim-profile-site.git
 cd kazim-profile-site
 ```
 
@@ -73,7 +73,9 @@ This project is open source and available under the MIT License.
 
 ## 📞 Contact
 
-For any questions or suggestions, feel free to reach out through:
-- GitHub: [Your GitHub Profile]
-- LinkedIn: [Your LinkedIn Profile]
-- Email: [Your Email]
+For any questions or suggestions, feel free to reach out:
+- Email: consulting@kazimmusa.com
+- Phone: +61 451 010 420
+- Location: Melbourne, Victoria, Australia
+- GitHub: [kazimali07](https://github.com/kazimali07)
+- LinkedIn: [Kazim Musa](https://linkedin.com/in/kazim-musa-69629024)
