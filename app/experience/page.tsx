@@ -3,8 +3,34 @@ import { ExperienceCard } from "@/components/experience-card";
 const experiences = [
   {
     title: "Senior Data Engineer",
+    company: "South East Melbourne Primary Health Networks",
+    period: "November 2024 - Present",
+    location: "Melbourne, Australia",
+    responsibilities: [
+      "Designed and implemented a scalable Azure Data Lake Gen2 medallion architecture (Bronze, Silver, Gold layers) to support structured data processing and analytics",
+      "Led the setup and configuration of Azure Databricks workspaces across DEV and PROD environments, integrating with Unity Catalog and implementing data lineage via Azure Purview",
+      "Automated data ingestion pipelines using Azure Data Factory and Databricks Autoloader, enabling incremental load and near real-time ingestion of structured and semi-structured data",
+      "Established robust CI/CD workflows using Azure DevOps for infrastructure as code, job deployment, and configuration management of Azure Data Services",
+      "Designed secure networking with VNets, subnets, private endpoints, and firewall rules to ensure isolation and compliance across DEV and PROD subscriptions",
+      "Implemented RBAC and resource locks to protect critical resources and ensured adherence to data governance policies using managed identities and service principals"
+    ],
+    technologies: [
+      "Azure Data Lake Gen2",
+      "Azure Databricks",
+      "Azure Data Factory",
+      "Azure DevOps",
+      "Azure Purview",
+      "Unity Catalog",
+      "VNets",
+      "RBAC",
+      "CI/CD",
+      "IaC"
+    ]
+  },
+  {
+    title: "Senior Data Engineer",
     company: "Wesfarmers Health",
-    period: "August 2023 - Present",
+    period: "August 2023 - November 2024",
     location: "Melbourne, Australia",
     responsibilities: [
       "Architected and implemented end-to-end data solutions using Snowflake, establishing enterprise-grade data warehouse architecture",

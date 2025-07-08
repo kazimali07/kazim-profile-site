@@ -23,10 +23,10 @@ export default function About() {
           <h1 className="text-4xl font-bold">About Me</h1>
           <div className="space-y-4">
             <p className="text-lg text-muted-foreground">
-              I am a results-driven Senior Data Engineer with over 6 years of experience in designing and implementing enterprise-grade data solutions. My expertise spans cloud-native architectures, data warehousing, and modern data stack implementation, with a proven track record of leading successful migrations and optimizing data pipelines.
+              I am a results-driven Senior Data Engineer with over 6 years of experience in designing and implementing enterprise-grade data solutions. My expertise spans multi-cloud architectures (Azure, GCP, AWS), data warehousing, and modern data stack implementation, with a proven track record of leading successful migrations and optimizing data pipelines.
             </p>
             <p className="text-lg text-muted-foreground">
-              Currently at Wesfarmers Health, I lead data engineering initiatives focusing on cloud migration, data security, and pipeline optimization. My approach combines technical expertise with a strong understanding of business needs, ensuring that data solutions drive meaningful insights and value.
+              Currently at South East Melbourne Primary Health Networks, I lead data engineering initiatives focused on Azure cloud solutions, including Data Lake Gen2 implementation, Databricks environments, and robust data governance with Azure Purview. My approach combines technical expertise with a strong understanding of business needs, ensuring that data solutions drive meaningful insights and value.
             </p>
           </div>
           <div className="space-y-4">

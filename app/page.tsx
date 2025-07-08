@@ -14,13 +14,13 @@ export default function Home() {
                 Hi, I&apos;m Kazim Musa
               </h1>
               <p className="mx-auto max-w-[700px] text-gray-500 md:text-xl dark:text-gray-400">
-                Senior Data Engineer specializing in Cloud-Native Solutions
+                Senior Data Engineer
               </p>
             </div>
             <p className="mx-auto max-w-[700px] text-gray-500 md:text-xl dark:text-gray-400">
               With 6+ years of experience in designing and implementing enterprise-grade data solutions,
               specializing in cloud-native architectures, data warehousing, and modern data stack implementation.
-              Currently leading data engineering initiatives at Wesfarmers Health.
+              Currently leading data engineering initiatives at South East Melbourne Primary Health Networks.
             </p>
             <div className="space-x-4">
               <Link href="/experience">

@@ -21,6 +21,7 @@ const skillCategories = [
   {
     category: "Cloud Platforms",
     skills: [
+      { name: "Azure", proficiency: 95 },
       { name: "Google Cloud Platform", proficiency: 90 },
       { name: "AWS", proficiency: 85 },
       { name: "Snowflake", proficiency: 90 }
@@ -29,10 +30,13 @@ const skillCategories = [
   {
     category: "Data Engineering",
     skills: [
+      { name: "Azure Databricks", proficiency: 95 },
       { name: "ETL/ELT", proficiency: 95 },
       { name: "Data Warehousing", proficiency: 90 },
       { name: "Data Modeling", proficiency: 85 },
-      { name: "Apache Airflow", proficiency: 80 }
+      { name: "Azure Data Factory", proficiency: 90 },
+      { name: "Apache Airflow", proficiency: 80 },
+      { name: "Data Governance", proficiency: 85 }
     ]
   }
 ];
